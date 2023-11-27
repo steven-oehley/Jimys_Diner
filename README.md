@@ -3,7 +3,7 @@
 
 Welcome to Jimmy's Diner! This web app is designed to make ordering delicious food and drinks a breeze. 
 It's built using HTML, CSS, and JavaScript.
-The site can be viewed here <a href="#">Jimmy's Diner 🍔</a>
+The site can be viewed here <a href="#" target="_blank">Jimmy's Diner 🍔</a>
 
 ## Design:
 The sites figma designs are illustrated below
