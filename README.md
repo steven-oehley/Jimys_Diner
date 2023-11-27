@@ -7,6 +7,8 @@ The site can be viewed here <a href="#">Jimmy's Diner 🍔</a>
 
 ## Design:
 The sites figma designs are illustrated below
+
+
 <img style="display:block;" width="665" alt="image" src="https://github.com/steven-oehley/Jimys_Diner/assets/145010059/4c0d0871-b8c9-478c-b4ae-80719c526bf4">
 
 ## Features
